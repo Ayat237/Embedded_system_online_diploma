@@ -29,7 +29,5 @@ int main()
 	{
 		printf("largest number = %f",number3);
 	}
-
-
 	return 0;
 }
