@@ -27,3 +27,5 @@ int main ()
     printf("size of structure =%d byte",sizeof(s));
 	return 0;
 }
+
+
